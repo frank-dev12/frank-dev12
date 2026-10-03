@@ -49,7 +49,7 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 
 <!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
 <p align="center">
-  <img src="https://github.com/frank-dev12" alt="Estadísticas de GitHub" />
+  <img src="h" alt="Estadísticas de GitHub" />
   <br/>
   <img src="https://vercel.app" alt="Lenguajes más usados" />
 </p>
