@@ -34,7 +34,7 @@ Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 2. **[WINTER C CODE]**  
    * **Descripción:** Trabajo de 2 meses en construir mi pagina web donde actualmente estoy ofreciendo servicio de codigo fuente y alquiler de paginas webs.
    * **Tecnologías:** `CSS`, `PHP`, `JS`,`PostgreSQL`,`Api Google Autenticador`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://winterccode.com)
+   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Pagina Web ](https://winterccode.com)
 
 ---
 
